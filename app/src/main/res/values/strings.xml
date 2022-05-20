@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="ti_u_m_n_n">Tiêu đề món ăn</string>
+    <string name="food_type">Loại món</string>
+</resources>
